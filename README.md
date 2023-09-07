@@ -3,7 +3,7 @@
 Hosted link:- https://asharma070320.github.io/Leetcode_mct/
 
 repo link:
-https://github.com/nipun0607/Leetcode_MCT3_Project
+[https://github.com/nipun0607/Leetcode_MCT3_Project](https://github.com/Asharma070320/Leetcode_mct/tree/main)
 
 group project on leetcode
 Nipun
